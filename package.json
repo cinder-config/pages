@@ -1,0 +1,25 @@
+{
+  "name": "ciclassifier-data-frontend",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^5.15.0",
+    "@fortawesome/free-regular-svg-icons": "^5.15.0",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@nuxtjs/axios": "^5.12.2",
+    "bootstrap-vue": "^2.16.0",
+    "moment": "^2.29.1",
+    "node-sass": "^4.14.1",
+    "nuxt": "^2.14.5",
+    "redirect-ssl": "^2.0.0",
+    "sass-loader": "^10.0.2",
+    "vuex-persistedstate": "^3.1.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/fontawesome": "^1.1.2"
+  }
+}
